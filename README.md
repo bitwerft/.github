@@ -1,0 +1,2 @@
+# .github
+Bildung. Besser. Planen.
